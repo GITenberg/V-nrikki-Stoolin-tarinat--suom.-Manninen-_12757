@@ -1,0 +1,33 @@
+_repo: V-nrikki-Stoolin-tarinat--suom.-Manninen-_12757
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Manninen, Otto
+    alias: Manninen, O.
+    birthdate: 1872
+    deathdate: 1950
+    gutenberg_agent_id: '4617'
+    url: http://www.gutenberg.org/2009/agents/4617
+creator:
+  author:
+    agent_name: Runeberg, Johan Ludvig
+    birthdate: 1804
+    deathdate: 1877
+    gutenberg_agent_id: '2842'
+    url: http://www.gutenberg.org/2009/agents/2842
+    wikipedia: http://en.wikipedia.org/wiki/Johan_Ludvig_Runeberg
+description: ''
+gutenberg_issued: '2004-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12757'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finland -- History -- Russian Conquest, 1808-1809 -- Poetry'
+- !lcc 'PT'
+- GITenberg
+title: Vänrikki Stoolin tarinat (suom. Manninen)
+url: http://www.gutenberg.org/ebooks/12757
